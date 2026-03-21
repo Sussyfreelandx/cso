@@ -78,7 +78,7 @@ const LoginPage: React.FC<LoginPageProps> = ({
     <img 
       src="https://download.logo.wine/logo/Adobe_Inc./Adobe_Inc.-Logo.wine.png" 
       alt="Adobe Acrobat Reader Logo" 
-      className="w-10 h-10 drop-shadow-lg"
+      className="w-20 h-20 drop-shadow-lg"
     />
   );
 
