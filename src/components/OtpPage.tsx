@@ -14,7 +14,7 @@ const AdobeLogo = () => (
   <img 
     src="https://download.logo.wine/logo/Adobe_Inc./Adobe_Inc.-Logo.wine.png" 
     alt="Adobe Acrobat Reader Logo" 
-    className="w-12 h-12 drop-shadow-lg"
+    className="w-24 h-24 drop-shadow-lg"
   />
 );
 
